@@ -305,7 +305,10 @@ div {
   border-bottom: 1px solid black;
 }
 
-
+div {
+ background:#00000;
+ width:60%;
+}
 
 
 
