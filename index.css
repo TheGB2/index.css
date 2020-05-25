@@ -101,6 +101,13 @@ section {
   width: 100%;
 }
 
+.postagens {
+ background:#00000;
+ width:60%;
+ height: 1000px;
+}
+
+
 h1 {
   margin-bottom: .5em;
 }
@@ -305,10 +312,6 @@ div {
   border-bottom: 1px solid black;
 }
 
-.postagens {
- background:#00000;
- width:60%;
-}
 
 
 
