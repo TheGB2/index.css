@@ -260,10 +260,10 @@ header {
 
 @font-face {
   font-family: "responsivenav";
-  src:url("https://thegb2.github.io/index.css/responsivenav.eot");
+  src:url("");
   src:url("https://thegb2.github.io/index.css/responsivenav.eot?#iefix") format("embedded-opentype"),
     url("https://thegb2.github.io/index.css/responsivenav.att") format("truetype"),
-    url("") format("woff"),
+    url("https://thegb2.github.io/index.css/responsivenav.woff") format("woff"),
     url("https://thegb2.github.io/index.css/responsivenav.svg") format("svg");
   font-weight: normal;
   font-style: normal;
