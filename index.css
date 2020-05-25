@@ -67,7 +67,7 @@ a:hover {
   user-select: none;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .js .nav-collapse {
     position: relative;
   }
@@ -117,7 +117,7 @@ p {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .postagens {
  background:#00000;
  width:65%;
@@ -180,7 +180,7 @@ header {
   opacity: 1;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .mask {
     display: none !important;
     opacity: 0 !important;
@@ -213,7 +213,7 @@ header {
   float: left;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .nav-collapse {
     float: right;
     width: auto;
@@ -225,7 +225,7 @@ header {
   width: 100%;
 }
 
-@media screen and (min-width: 56em) {
+@media screen and (min-width: 900px) {
   .nav-collapse li {
     width: auto;
   }
@@ -247,7 +247,7 @@ header {
   background: #00000098;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .nav-collapse a {
     border-left: 1px solid white;
     padding: 1.02em 2em;
@@ -263,7 +263,7 @@ header {
   padding-left: 2em;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .nav-collapse ul ul a {
     display: none;
   }
@@ -313,7 +313,7 @@ header {
 
 .nav-toggle.active:before {
   font-size: 24px;
-  content: "76"; /* Close icon */
+  content: "X"; /* Close icon */
 }
 
 div {
