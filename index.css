@@ -260,7 +260,7 @@ header {
 
 @font-face {
   font-family: "responsivenav";
-  src:url("");
+  src:url("https://thegb2.github.io/index.css/responsivenav.eot");
   src:url("https://thegb2.github.io/index.css/responsivenav.eot?#iefix") format("embedded-opentype"),
     url("https://thegb2.github.io/index.css/responsivenav.att") format("truetype"),
     url("https://thegb2.github.io/index.css/responsivenav.woff") format("woff"),
@@ -297,7 +297,7 @@ header {
 
 .nav-toggle.active:before {
   font-size: 24px;
-  content: "X"; /* Close icon */
+  content: "/X"; /* Close icon */
 }
 
 div {
