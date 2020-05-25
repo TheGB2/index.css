@@ -297,7 +297,7 @@ header {
 
 .nav-toggle.active:before {
   font-size: 24px;
-  content: "https://thegb2.github.io/index.css/responsivenav.svg"; /* Close icon */
+  content: "X"; /* Close icon */
 }
 
 div {
